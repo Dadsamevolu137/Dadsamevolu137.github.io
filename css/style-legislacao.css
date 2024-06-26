@@ -1,0 +1,276 @@
+a{
+    background-color: black;
+    color: crimson;
+}
+.menu a {
+    line-height: 1;
+    padding: .7rem 1rem;
+    padding-top: 0.7rem;
+    padding-right: 1rem;
+    padding-bottom: 0.7rem;
+    padding-left: 1rem;;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    display: block;
+    margin-bottom: 0;
+    color: #fff;
+}
+#header ul.menu li a {
+    color: #fff;
+}
+.menu a, .menu button, .menu input, .menu select {
+    margin-bottom: 0;
+}
+.menu .button, .menu a {
+    line-height: 1;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    display: block;
+    padding: .7rem 1rem;
+    padding-top: 0.7rem;
+    padding-right: 1rem;
+    padding-bottom: 0.7rem;
+    padding-left: 1rem;
+}
+a {
+    color: #000;
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video, a {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    border: 0;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: initial;
+    border-right-style: initial;
+    border-bottom-style: initial;
+    border-left-style: initial;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    outline: 0px;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+a {
+    line-height: inherit;
+    color: #1779ba;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    cursor: pointer;
+}
+a {
+    background-color: transparent;
+}
+*, ::after, ::before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+li {
+    font-size: inherit;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+#header ul.menu {
+    list-style: none;
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+    display: inline-flex;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+.menu {
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    list-style: none;
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+p, ul {
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+ul {
+    margin-left: 1.25rem;
+    list-style-type: disc;
+}
+dl, ol, ul {
+    margin-bottom: 1rem;
+    list-style-position: outside;
+    line-height: 1.6;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+#header {
+    background-color: #003a82;
+    color: #fff;
+    padding: 20px 0;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    margin-bottom: 50px;
+}
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: "Open Sans";
+}
+body {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    background: #fefefe;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(254, 254, 254);
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #0a0a0a;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+*, ::after, ::before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+*, ::after, ::before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    width: 14%;
+    vertical-align: middle;
+    border: 0;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: initial;
+    border-right-style: initial;
+    border-bottom-style: initial;
+    border-left-style: initial;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    -ms-interpolation-mode: bicubic;
+}
+
+
+/* --------------------------------- PARTE DO CABEÇALHO A CIMA ^ -------------------------------------------------------------*/
+
+
+h1{
+    text-align: left;
+    font-size: 200%;;
+    font-weight: bold;
+}
+.container{
+    width: 750px;
+    margin: 0 auto;
+}
+.txt{
+    text-align: justify;     
+}
+.image img{
+    width: 100%;    
+}
+.logo-site{
+    margin: 0 5px 0 15px;
+}
