@@ -1,0 +1,132 @@
+.back{
+    text-align: center;
+    margin-left: 260px;
+    margin-right: 50px;
+    width: 750px;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+.linha{
+    background-color: rgba(0, 0, 255, 0.308);
+}
+hr{
+    background-color: rgb(43, 40, 40);
+}
+.logo-site{
+    width: 200px;
+    margin: auto;
+    border-radius: 20px;
+}
+.titulo{
+    width: 620px;
+    margin-left: 61px;
+    margin-right: 70px;
+    text-align: justify;
+    color: rgb(0, 32, 136);
+}
+.title{
+    width: 620px;
+    margin-left: 61px;
+    text-align: left;
+    color: rgb(0, 32, 136);
+}
+.P1,.P2,p{
+    width: 620px;
+    text-align: justify;
+    margin-left: 61px;
+    margin-right: 70px;
+    color: black;
+}
+.acesse{
+    color: black;
+    font-weight: bold;
+}
+.assunto{
+    width: 620px;
+    text-align: justify;
+    margin-left: 61px;
+    color: rgb(0, 32, 136);
+}
+.jpg1,.jpg2{
+    width: 620px;
+    margin-left: 61px;
+    margin-right: 70px;
+}
+ol,li{
+    text-align: justify;
+    font-weight: bold;
+    width: 620px;
+    margin-left: 19px;
+}
+.select{
+    width: 620px;
+    text-align: justify;
+    margin-left: 61px;
+    margin-right: 70px;
+}
+.exemplo{
+    width: 620px;
+    text-align: justify;
+    margin-left: 61px;
+    margin-right: 70px;
+    font-weight: bold;
+}
+.form{
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 1073px;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+.nome, .email, .senha{
+    margin-left: 222px;
+    font-size: large;
+    background-color: aliceblue;
+    color: black;
+    font-weight: bold;
+}
+.inputnome{
+    margin: 0 219px;
+    background-color: #cae3f8;
+    width: 620px;
+    border-radius: 20px;
+}
+.inputemail{
+    margin: 0 219px;
+    text-align: center;
+    background-color: #cae3f8;
+    width: 620px;
+    border-radius: 20px;
+}
+.inputsenha{
+    margin: 0 219px;
+    text-align: center;
+    background-color: #cae3f8;
+    width: 620px;
+    border-radius: 20px;
+}
+.botao{
+    margin: 0 219px;
+    width: 630px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: large;
+    background-color: rgb(53, 53, 241);
+}
+::placeholder{
+    text-align: left;
+    font-weight: bolder;
+    color: black;
+}
+.noticias{
+    font-weight: bold;
+    color: black;
+    text-align: justify;
+    width: 60px;
+}
+.Noticias{
+    margin-left: 220px;
+    width: 90px;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
